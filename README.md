@@ -24,7 +24,7 @@ I have learned some valuable skills while creating this dashboard, which I’m s
 - `Rupashree_Store_2023_Presentation.pptx`: A comprehensive summary of the project, including key insights, data visualizations, and recommendations for growing sales.
 
 ## **Questions (KPIs)**
-- Compare the Sales and Orders using a single chart
+-Compare the Sales and Orders using a single chart
 -Mention the  month got the Highest Sales and Orders
 -Mention Men or women who purchase most in 2023
 -Top 10 States contributing  the Sales most
