@@ -4,7 +4,7 @@
 Welcome to **Rupashree-Store-2023-Data-Analysis **repository! This project focuses on analyzing sales data to uncover actionable insights for business growth. The Excel-based dashboard provides a comprehensive view of customer behavior, regional performance, and sales channels.
 
 ## **Preview**
-![Dashboard Preview](https://github.com/minhaj-313/Vrinda-Store-Annual-Report---Data-Analyst-Project/blob/main/Rupashree _Store_Data_Analysis_Dashboard.PNG)
+![Dashboard Preview]([https://github.com/minhaj-313/Vrinda-Store-Annual-Report---Data-Analyst-Project/blob/main/Rupashree _Store_Data_Analysis_Dashboard.PNG](https://github.com/Akaash0107/Rupashree-Store-Data-Analysis/blob/main/Rupashree%20_Store_Data_Analysis_Dashboard.png))
 
 ## Project Objective
 The Rupashree Store wants to create an annual sales report for 2023. So that, the owner of the Rupashree Store can understand their customers and grow more sales in 2024.
@@ -35,7 +35,7 @@ I have learned some valuable skills while creating this dashboard, which I’m s
 -Mention the Highest Selling Category
 -Top 10 Cities Contributing  the Sales most
 
--Dashboard Interaction <a href="https://github.com/naheeda78/Excel-Data-Analysis/blob/main/Dashboard_image.png">View Dashboard<a/>
+-Dashboard Interaction <a href="[https://github.com/naheeda78/Excel-Data-Analysis/blob/main/Dashboard_image.png](https://github.com/Akaash0107/Rupashree-Store-Data-Analysis/blob/main/Rupashree%20_Store_Data_Analysis_Dashboard.png)">View Dashboard<a/>
 
 ## **Process**
 
