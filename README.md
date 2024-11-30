@@ -1,4 +1,4 @@
-# Rupashree-Store-2023-Data-Analysis 
+# Rupashree_Store_2023_Data_Analysis_Excel 
 
 Welcome to **Rupashree-Store-2023-Data-Analysis **repository! This project focuses on analyzing sales data to uncover actionable insights for business growth. The Excel-based dashboard provides a comprehensive view of customer behavior, regional performance, and sales channels.
 
@@ -24,14 +24,14 @@ I have learned some valuable skills while creating this dashboard, which I’m s
 - `Rupashree_Store_2023_Presentation.pptx`: A comprehensive summary of the project, including key insights, data visualizations, and recommendations for growing sales.
 
 ## **Questions (KPIs)**
--Compare the Sales and Orders using a single chart
--Mention the  month got the Highest Sales and Orders
--Mention Men or women who purchase most in 2023
--Top 10 States contributing  the Sales most
--Relation between Age and Gender
--Mention the Channel , according to Maximum Sales
--Mention the Highest Selling Category
--Top 10 Cities Contributing  the Sales most
+- Compare the Sales and Orders using a single chart
+- Mention the  month got the Highest Sales and Orders
+- Mention Men or women who purchase most in 2023
+- Top 10 States contributing  the Sales most
+- Relation between Age and Gender
+- Mention the Channel , according to Maximum Sales
+- Mention the Highest Selling Category
+- Top 10 Cities Contributing  the Sales most 
 
 ## **Process**
 
